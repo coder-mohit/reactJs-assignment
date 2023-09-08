@@ -1,0 +1,21 @@
+/* TimeSeriesGraph.css */
+/* You can define your styles here */
+
+/* Example styles for the chart container */
+.time-series-graph-container {
+    max-width: 600px; /* Set the maximum width for the chart container */
+    margin: 0 auto;   /* Center the chart horizontally */
+  }
+  
+  /* Example styles for the chart title */
+  .chart-title {
+    font-size: 1.5rem; /* Set the font size for the title */
+    font-weight: bold; /* Make the title bold */
+    margin-bottom: 20px; /* Add some spacing below the title */
+  }
+  
+  /* Example styles for the chart legend */
+  .chart-legend {
+    font-size: 1rem; /* Set the font size for the legend */
+  }
+  

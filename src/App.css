@@ -1,0 +1,45 @@
+
+body {
+ 
+  margin: 0;
+  padding: 0;
+  background-color: lightblue;
+  font-family: 'Poppins', sans-serif;
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+
+.App-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+
+.AccountList {
+  flex: 1;
+}
+
+.MonthlyPaymentInput {
+  flex: 1;
+  margin-left: 20px;
+}
+
+.RepaymentModel {
+  flex: 1;
+}
